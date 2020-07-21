@@ -3,6 +3,8 @@
 
 ### This is a mock take-home data science interview challenge
 
+This challenge focuses on determining user retention for a ride-sharing company, Ultimate Technologies Inc. The notebook contains the answers and code to the questions below.
+
 ## Part 1 ‑ Exploratory data analysis
 The attached logins.json file contains (simulated) timestamps of user logins in a particular
 geographic location. Aggregate these login counts based on 15­minute time intervals, and
