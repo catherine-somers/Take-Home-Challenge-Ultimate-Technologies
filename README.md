@@ -1,7 +1,7 @@
 # Ultimate Technologies Inc. Take-Home Challenge
 
 
-### This is a mock take-home data science interview challenge
+### This is a mock take-home data science interview challenge.
 
 This challenge focuses on determining user retention for a ride-sharing company, Ultimate Technologies Inc. The notebook contains the answers and code to the questions below.
 
